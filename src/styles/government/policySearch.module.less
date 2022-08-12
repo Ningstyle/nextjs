@@ -1,0 +1,148 @@
+.topInfoBox {
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  padding-bottom: 56px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.topTit {
+  font-size: 24px;
+  font-family: SourceHanSansCN-Bold, SourceHanSansCN;
+  font-weight: bold;
+  color: #1192FF;
+  margin-top: 30px;
+  margin-left: 118px;
+}
+
+.searchBox {
+  width: 100%;
+  padding: 0px 118px 15px 118px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #EFEFEF;
+
+  :global(.ant-input-group .ant-input) {
+    border-color: #1192FF;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+
+  :global(.ant-input-search-button) {
+    padding: 0px 40px;
+  }
+}
+
+.hotListBox {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+
+  .hotLabel {
+    display: flex;
+    align-items: center;
+
+    img {
+      width: 28px;
+      height: 28px;
+    }
+
+    span {
+      font-size: 14px;
+      font-family: SourceHanSansCN-Medium, SourceHanSansCN;
+      font-weight: 500;
+      color: #333333;
+      margin-left: 6px;
+    }
+  }
+
+  .listBox {
+    display: flex;
+    align-items: center;
+  }
+
+  .hotItem {
+    margin-left: 24px;
+    font-size: 14px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #333333;
+    padding: 5px 16px;
+    box-sizing: border-box;
+    background: #FEEDE3;
+    border-radius: 14px;
+    cursor: pointer;
+  }
+}
+
+.refreshBtn {
+  margin-left: 20px;
+}
+
+.screenBox {
+  margin-top: 14px;
+  padding: 0px 48px;
+  box-sizing: border-box;
+
+  .searchRegion {
+    .searchLabel {
+      padding-right: 24px;
+    }
+
+    .selectBox {
+      width: 353px;
+      height: 32px;
+    }
+  }
+}
+
+.havaMargin {
+  margin-top: 16px;
+
+  :global(.customLabelClass) {
+    padding: 0;
+  }
+}
+
+.policyList {
+  width: 100%;
+  background-color: #FFF;
+  padding: 16px 35px 58px 50px;
+  box-sizing: border-box;
+  margin-top: 12px;
+}
+
+.topInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #EFEFEF;
+
+  span {
+    color: #1192FF;
+    font-size: 16px;
+    padding: 0px 8px;
+    box-sizing: border-box;
+  }
+
+  div:nth-child(1) {
+    color: #333333;
+    font-size: 16px;
+  }
+
+  div:nth-child(2) {
+    font-size: 14px;
+    color: #333333;
+  }
+}
+
+.timeFiltering {
+  display: flex;
+  align-items: center;
+}
+
+.paginationBox {
+  margin-top: 60px;
+}

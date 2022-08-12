@@ -1,0 +1,101 @@
+.listBox {
+  margin-top: 20px;
+}
+
+.listItem {
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 17px;
+  margin-top: 28px;
+}
+
+.topInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .leftInfo {
+    span:nth-child(1) {
+      font-size: 16px;
+      font-family: SourceHanSansCN-Medium, SourceHanSansCN;
+      font-weight: 500;
+      color: #333333;
+
+    }
+
+    span:nth-child(2) {
+      margin-left: 8px;
+      background: #E0F0FF;
+      border-radius: 2px;
+      font-size: 12px;
+      font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+      font-weight: 400;
+      color: #007DE7;
+      padding: 5px 8px;
+      box-sizing: border-box;
+
+    }
+  }
+}
+
+.rightINfo {
+  display: flex;
+
+  span:nth-child(1) {
+    margin-right: 24px;
+    font-size: 14px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #333333;
+  }
+
+  div {
+    font-size: 14px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #848484;
+
+    span:nth-child(1) {
+      font-size: 14px;
+      font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+      font-weight: 400;
+      color: #333333;
+      margin-right: 0px;
+    }
+  }
+}
+
+.bottomInfo {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+
+  span:nth-child(1) {
+    width: 32px;
+    height: 32px;
+    border-radius: 2px;
+    font-size: 12px;
+    font-family: PingFang-SC-Regular, PingFang-SC;
+    font-weight: 400;
+    color: #007DE7;
+    background: #E0F0FF;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 32px;
+  }
+
+  span:nth-child(2) {
+    width: calc(100% - 50px);
+    overflow: hidden;
+    /*超出部分隐藏*/
+    white-space: nowrap;
+    /*不换行*/
+    text-overflow: ellipsis;
+    /*超出部分文字以...显示*/
+
+    margin-left: 10px;
+    font-size: 14px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #333333;
+  }
+}

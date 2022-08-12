@@ -1,0 +1,14 @@
+# Ignore built files except ./src
+scripts
+# node_modules
+node_modules/
+# build
+build/
+# dist
+dist/
+#public
+public/
+# serviceWorker
+serviceWorker.js
+# config
+config/

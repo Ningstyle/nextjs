@@ -1,0 +1,80 @@
+.countentList {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.countItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eeeeee;
+  overflow: hidden;
+
+  img {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+.labelName {
+  font-size: 12px;
+  font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+  font-weight: 400;
+  color: #007DE7;
+  padding: 5px 8px;
+  box-sizing: border-box;
+  background: #E0F0FF;
+  border-radius: 2px;
+  margin-left: 8px;
+}
+
+.topInfo {
+  width: calc(100% - 360px);
+  display: flex;
+  align-items: center;
+
+}
+
+.itemTit {
+  width: calc(100% - 120px);
+  overflow: hidden;
+  /*   超出容器的部分影响  */
+  white-space: nowrap;
+  /*  文本不换行   */
+  text-overflow: ellipsis;
+  /*  超出容器的文本显示省略号  */
+  font-size: 16px;
+  font-family: SourceHanSansCN-Medium, SourceHanSansCN;
+  font-weight: 500;
+  color: #333333;
+}
+
+.rightInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 340px;
+  color: #333333;
+  font-size: 14px;
+
+  div:nth-child(2) {
+    width: 200px;
+    overflow: hidden;
+    /*   超出容器的部分影响  */
+    white-space: nowrap;
+    /*  文本不换行   */
+    text-overflow: ellipsis;
+    /*  超出容器的文本显示省略号  */
+  }
+
+  span {
+    font-size: 14px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #848484;
+  }
+}

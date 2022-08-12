@@ -1,0 +1,1724 @@
+{
+  "desc": "",
+  "upward": {
+    "direction": "upward",
+    "name": "北京兆易创新科技股份有限公司",
+    "children": [
+      {
+        "name": "北京启迪中海创业投资有限公司",
+        "amount": 0,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "启迪创业投资有限公司",
+            "amount": 510,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京中海投资管理有限公司",
+            "amount": 233.33,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京中关村创业投资发展有限公司",
+            "amount": 256.67,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "上海武岳峰创业投资合伙企业",
+        "amount": 0,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "上海武岳峰高科技创业投资顾问合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "溧阳武岳峰天目创业投资合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海创业投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海浦东科技投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "金鑫",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海嘉定创业投资管理有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "天津万顺通合科技发展中心（有限合伙）",
+        "amount": 0,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "薛军",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘磊",
+            "amount": 13.4883,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱建明",
+            "amount": 3.6764,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张兴",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "冯骏",
+            "amount": 17.9843,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱一明",
+            "amount": 1.5924,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "孙桂静",
+            "amount": 13.4883,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "杜成钧",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "兰钢锋",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "邓强",
+            "amount": 13.4881,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "苏如伟",
+            "amount": 22.4805,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陈弘毅",
+            "amount": 44.9624,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张现聚",
+            "amount": 31.4725,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "方敏红",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "苏志强",
+            "amount": 35.9684,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "高志国",
+            "amount": 8.9924,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "薛军",
+            "amount": 17.9843,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "滕旭红",
+            "amount": 1.7985,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘涛",
+            "amount": 1.7984,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "史健",
+            "amount": 1.5923,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "孙华",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张轶可",
+            "amount": 13.4881,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱健东",
+            "amount": 4.4962,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "天津友容恒通科技发展中心（有限合伙）",
+        "amount": 0,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "何卫",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "葛明豪",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李红",
+            "amount": 168.3793,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "武巍巍",
+            "amount": 0.0065,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "何卫",
+            "amount": 39.3375,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "同方华清投资管理有限公司",
+        "amount": 46.59,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "银杏博融（北京）科技有限公司",
+            "amount": 2500,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "西藏龙芯投资有限公司",
+            "amount": 2500,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "天津腾信创业投资合伙企业（有限合伙）",
+        "amount": 180.4575,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "吕煌",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "倪正东",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "丁大立",
+            "amount": 1360,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "吕煌",
+            "amount": 100,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "马国琳",
+            "amount": 100,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "倪正东",
+            "amount": 240,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "深圳市鹏瑞投资集团有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘颖",
+            "amount": 100,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京腾业创业投资管理有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "上海华芯创业投资企业",
+        "amount": 132.3075,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "MAXIM INTERNATIONAL HOLDINGINC.",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "锐侠电子（中国）有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "TSMC PARTNERSLTD.",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "AG INVESTORSL.L.C.",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "RENESAS ELECTRONICS ASIA PACIFIC LIMITED",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "MAXIM INTERNATIONAL HOLDING,INC.",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "SVIC NO.28 NEW TECHNOLOGY BUSINESS INVESTMENT L.L.P.",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "东芝电子（中国）有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海恒洲投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海创业投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "国投高科技投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "CLIFFORD HIGGERSON",
+            "amount": 1.6382,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "常州武岳峰创业投资合伙企业（有限合伙）",
+        "amount": 44.1,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "王佳定",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王晓珂",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "常州武岳峰创业投资管理有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "江苏武进高新投资控股有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "常州武岳峰创业投资管理合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陶丽萍",
+            "amount": 400,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王晓珂",
+            "amount": 1600,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘建伟",
+            "amount": 1600,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "沈翔",
+            "amount": 1200,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "蔡雪良",
+            "amount": 800,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "史静华",
+            "amount": 2400,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "祁小琴",
+            "amount": 1600,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "雷祖云",
+            "amount": 400,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王佳定",
+            "amount": 1600,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "孙国平",
+            "amount": 2933.3333,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "瞿铮",
+            "amount": 266.6667,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "马郁",
+            "amount": 480,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "丁洪玉",
+            "amount": 1600,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李俊",
+            "amount": 320,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "常州恒屹智能装备有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "天津浔渡创业投资合伙企业（有限合伙）",
+        "amount": 88.2075,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "天津金帛水寿经济信息咨询合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "无锡沅渡创业咨询有限公司",
+            "amount": 81.0876,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "芦卫娟",
+            "amount": 1526.3479,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "鲍旭锋",
+            "amount": 1097.0555,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "金朝晖",
+            "amount": 953.9707,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "金勇",
+            "amount": 4531.3551,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海垂颖企业管理合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "温州金帛水寿企业管理咨询事务所",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "上海武岳峰创业投资合伙企业（有限合伙）",
+        "amount": 44.1,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "上海浦东新兴产业投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海创业投资有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "溧阳武岳峰天目创业投资合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海武岳峰高科技创业投资顾问合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海嘉定创业投资管理有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "上海真金资产管理有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京友容恒通投资管理中心（有限合伙）",
+        "amount": 272.4825,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "卜尔龙",
+            "amount": 10.7906,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "梁军",
+            "amount": 8.0928,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "祁明利",
+            "amount": 8.0928,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陈锋",
+            "amount": 3.6764,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "涂美红",
+            "amount": 26.0774,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "乔海燕",
+            "amount": 0.8992,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李昂",
+            "amount": 41.0265,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "何代明",
+            "amount": 9.6288,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘奎伟",
+            "amount": 61.1462,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "魏少军",
+            "amount": 8.9924,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李晓燕",
+            "amount": 29.6741,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "薛霆",
+            "amount": 11.6898,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "潘荣华",
+            "amount": 22.4805,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "崔志勇",
+            "amount": 6.2947,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "韩飞",
+            "amount": 49.4568,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "周赛",
+            "amount": 19.7831,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘永波",
+            "amount": 31.4725,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "欧宁",
+            "amount": 24.279,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张赛",
+            "amount": 20.682,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "何卫",
+            "amount": 39.3375,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "龙钢",
+            "amount": 11.6898,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘丹丹",
+            "amount": 21.5812,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "古岩",
+            "amount": 1.873,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱一明",
+            "amount": 3.5971,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "纪艳丽",
+            "amount": 7.1936,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李红",
+            "amount": 168.3793,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王晓飞",
+            "amount": 8.0932,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "武巍巍",
+            "amount": 1.7985,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "肖吉丰",
+            "amount": 1.7985,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘铭",
+            "amount": 44.9606,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "胡洪",
+            "amount": 53.0534,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王如松",
+            "amount": 42.2627,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京万顺通合投资管理中心（有限合伙）",
+        "amount": 92.4,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "刘磊",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "苏如伟",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱一明",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "方敏红",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱健东",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "薛军",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱建明",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "史健",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘涛",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张轶可",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "冯骏",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张兴",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "孙桂静",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "兰钢锋",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "苏志强",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陈弘毅",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "孙华",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "滕旭红",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "高志国",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "邓强",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张现聚",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "杜成钧",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "盈富泰克创业投资有限公司",
+        "amount": 582.6825,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "深圳维卓投资管理有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "深圳市鑫海泰投资咨询有限公司",
+            "amount": 3140,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "熊猫电子集团有限公司",
+            "amount": 680,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "广州无线电集团有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "海信集团有限公司",
+            "amount": 1080,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "彩虹集团有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "中国电子信息产业发展研究院",
+            "amount": 780,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "中国普天信息产业股份有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "中国电子信息产业集团有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "云南南天电子信息产业股份有限公司",
+            "amount": 1220,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "启迪中海创业投资有限公司",
+        "amount": 891.75,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "北京中关村创业投资发展有限公司",
+            "amount": 2694.92,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "启迪创业投资有限公司",
+            "amount": 5355,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京中海投资管理有限公司",
+            "amount": 2450.08,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京启迪创业孵化器有限公司",
+        "amount": 252.4425,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "启迪科技服务有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京中海创业投资有限公司",
+        "amount": 154.1775,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "瑞建国",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京中关村科学城科创服务有限公司",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京博时天宇投资有限公司",
+            "amount": 430.8,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京三友光信科技有限公司",
+            "amount": 446.1,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京天世悦成投资有限公司",
+            "amount": 165.3,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京市海淀区玉渊潭农工商总公司",
+            "amount": 384.6,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "北京海淀科技金融资本控股集团股份有限公司",
+            "amount": 1119.3,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "中关村科技园区海淀园创业服务中心",
+            "amount": 23.1,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "瑞建国",
+            "amount": 430.8,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京中海厚德投资管理中心（有限合伙）",
+        "amount": 22.23,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "徐工",
+            "amount": 45,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "姬兴慧",
+            "amount": 50,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "深圳市中和春生壹号股权投资基金合伙企业（有限合伙）",
+        "amount": 317.535,
+        "direction": "upward",
+        "children": [
+          {
+            "name": "福州福瑞新股权投资合伙企业（有限合伙）",
+            "amount": 4400,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "汇中泰德投资有限公司",
+            "amount": 4000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "广东喜之郎集团有限公司",
+            "amount": 10000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "天津富石股权投资基金合伙企业（普通合伙）",
+            "amount": 4000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "中兴通讯股份有限公司",
+            "amount": 30000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "深圳市云威投资有限公司",
+            "amount": 2000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "深圳市中兴创业投资基金管理有限公司",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "魏万城",
+            "amount": 1500,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "黄延军",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "戈弋",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陶璇",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王柏兴",
+            "amount": 5000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "梁涌",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "胡焰龙",
+            "amount": 1140,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "田卫兵",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张静",
+            "amount": 1100,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "邓荣",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "高宏坤",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "杜守婕",
+            "amount": 1200,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "范洪福",
+            "amount": 1200,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "周旭",
+            "amount": 1280,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "邹玟",
+            "amount": 1030,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "刘久金",
+            "amount": 2000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "朱茵",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "庄丹明",
+            "amount": 1200,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "梁沪明",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "陈展辉",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张远辛",
+            "amount": 1250,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "谢建良",
+            "amount": 1200,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张国瑞",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "叶景坤",
+            "amount": 2000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李永良",
+            "amount": 7500,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "寿斌",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "卢耀普",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张伯丹",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "李成芬",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "张平",
+            "amount": 1000,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "魏万城",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "叶景坤",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "戈弋",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "卢耀普",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          },
+          {
+            "name": "王柏兴",
+            "amount": 0,
+            "direction": "upward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "朱一明",
+        "amount": 1221.9,
+        "direction": "upward",
+        "children": []
+      }
+    ]
+  },
+  "downward": {
+    "direction": "downward",
+    "name": "北京兆易创新科技股份有限公司",
+    "children": [
+      {
+        "name": "北京屹唐华创股权投资中心（有限合伙）",
+        "amount": 0,
+        "direction": "downward",
+        "children": [
+          {
+            "name": "北京屹华图芯科技合伙企业（有限合伙）",
+            "amount": 9.9,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "华勤技术股份有限公司",
+            "amount": 242.5876,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "亚信安全科技股份有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "新思考电机有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "合肥开悦半导体科技有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "深圳市得一微电子有限责任公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "北京屹唐半导体科技股份有限公司",
+            "amount": 665.8089,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "北京屹华仙童商务咨询合伙企业（有限合伙）",
+            "amount": 9.9,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "深圳市思远半导体有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "华勤技术有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "广东智芯光电科技有限公司",
+            "amount": 648.1487,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "易兆微电子（杭州）股份有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "易兆微电子（杭州）有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "上扬软件（上海）有限公司",
+            "amount": 65.0889,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "南京天易合芯电子有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "江西江南新材料科技股份有限公司",
+            "amount": 431.2724,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "北京博融思比科科技有限公司",
+            "amount": 10150,
+            "direction": "downward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "合肥格易集成电路有限公司",
+        "amount": 0,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "深圳市外滩科技开发有限公司",
+        "amount": 12000,
+        "direction": "downward",
+        "children": [
+          {
+            "name": "合肥石溪产恒集成电路创业投资基金合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "合肥通易股权投资合伙企业（有限合伙）",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "苏州亚杰天使三期投资中心（有限合伙）",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "深圳市得一微电子有限责任公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "厦门积微信息技术有限公司",
+            "amount": 4.1666,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "青岛华芯创原创业投资中心（有限合伙）",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "苏州中和春生三号投资中心（有限合伙）",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "上海奥简微电子科技有限公司",
+            "amount": 200,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "苏州福瑞思信息科技有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "忆正科技（武汉）有限公司",
+            "amount": 2480.7156,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "合肥睿科微电子有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "深圳安创科技股权投资合伙企业（有限合伙）",
+            "amount": 600,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "至誉科技（武汉）有限公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "锐祺物联网技术张家口有限公司",
+            "amount": 10.3,
+            "direction": "downward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "北京圭璋致远科技开发有限公司",
+        "amount": 0,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "深圳市格易聚创集成电路有限公司",
+        "amount": 2000,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "青岛海丝民溪投资中心（有限合伙）",
+        "amount": 0,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "西安格易安创集成电路有限公司",
+        "amount": 0,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "睿力集成电路有限公司",
+        "amount": 28562.73613,
+        "direction": "downward",
+        "children": [
+          {
+            "name": "长鑫新桥存储技术有限公司",
+            "amount": 5100,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "长鑫存储技术有限公司",
+            "amount": 10000,
+            "direction": "downward",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "上海格易电子有限公司",
+        "amount": 1000,
+        "direction": "downward",
+        "children": []
+      },
+      {
+        "name": "上海思立微电子科技有限公司",
+        "amount": 13000,
+        "direction": "downward",
+        "children": [
+          {
+            "name": "深圳市集芯创源电子科技有限公司",
+            "amount": 800,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "上海思芯正普软件有限公司",
+            "amount": 1000,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "合肥集芯电子科技有限公司",
+            "amount": 2500,
+            "direction": "downward",
+            "children": []
+          },
+          {
+            "name": "上海思立微电子科技有限公司深圳分公司",
+            "amount": 0,
+            "direction": "downward",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "count": 29
+}

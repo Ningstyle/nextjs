@@ -1,0 +1,88 @@
+.PolicyListBox {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding:5px;
+  box-sizing: border-box;
+
+  .policyListItem {
+    width: 100%;
+    height: auto;
+    padding: 23px 27px;
+    background: rgba(216,216,216,0);
+    box-shadow: 0px 0px 6px 0px rgba(31,154,240,0.2000);
+    border-radius: 2px;
+    border: 1px solid rgba(151,151,151,0.2000);
+    position: relative;
+    margin-bottom: 20px;
+    .innerTitle{
+      width: 100%;
+      .policyTitle {
+        width: 76%;
+        font-size: 16px;
+        font-family: PingFang-SC-Medium, PingFang-SC;
+        font-weight: 500;
+        color: rgba(0,0,0,0.8000);
+        line-height: 30px;
+        border-bottom: 1px dashed #979797;
+        padding-bottom: 18px;
+        box-sizing: border-box;
+        margin-bottom:17px;
+        .policyTitle {
+          width: 76%;
+          font-size: 16px;
+          font-family: PingFang-SC-Medium, PingFang-SC;
+          font-weight: 500;
+          color: rgba(0,0,0,0.8000);
+          line-height: 30px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+      }
+    }
+    .tagsBox{
+      margin-bottom: 11px;
+    }
+    .policyItem {
+      display: flex;
+      align-items: center;
+      line-height: 28px;
+      font-size: 14px;
+      font-family: PingFangSC-Regular, PingFang SC;
+      font-weight: 400;
+      .label {
+        color: rgba(0,0,0,0.6000);
+      }
+      .value {
+        color: rgba(0,0,0,0.6000);
+      }
+    }
+
+    .policyStatus {
+      display: inline-block;
+      position: absolute;
+      right: 38px;
+      top: 28px;
+      span{
+        display: inline-block;
+        padding: 1px 13px;
+        background-color: #C3C3C3;
+        color: #333;
+        margin-left:8px;
+        font-size: 12px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        font-weight: 400;
+        color: #FFFFFF;
+        border-radius: 2px;
+        line-height: 22px;
+      }
+    }
+    .pipei{
+      background-color: #1F9AF0 !important;
+    }
+    .ploicySb{
+      background-color: #9CBED5 !important;
+    }
+  }
+}

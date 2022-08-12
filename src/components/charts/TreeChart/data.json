@@ -1,0 +1,2318 @@
+{
+  "title": "数字经济",
+  "level": 0,
+  "children": [
+    {
+      "value": "INB000401",
+      "title": "数字经济核心产业",
+      "level": 1,
+      "score": 0,
+      "link_cost": "低价值环节",
+      "children": [
+        {
+          "value": "INB00040101",
+          "title": "数字产品制造业",
+          "level": 2,
+          "score": 0,
+          "link_cost": "低价值环节",
+          "children": [
+            {
+              "value": "INB0004010101",
+              "title": "计算机制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010101",
+                  "title": "计算机整机制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010102",
+                  "title": "计算机零部件制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010103",
+                  "title": "计算机外围设备制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010104",
+                  "title": "工业控制计算机及系统制造",
+                  "level": 4,
+                  "score": 78.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010105",
+                  "title": "信息安全设备制造",
+                  "level": 4,
+                  "score": 80,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010106",
+                  "title": "其他计算机制造",
+                  "level": 4,
+                  "score": 66.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010102",
+              "title": "通讯及雷达设备制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010201",
+                  "title": "通信系统设备制造",
+                  "level": 4,
+                  "score": 81.25,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010202",
+                  "title": "通信终端设备制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010203",
+                  "title": "雷达及配套设备制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010103",
+              "title": "数字媒体设备制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010301",
+                  "title": "广播电视节目制作及发射设备制造",
+                  "level": 4,
+                  "score": 61.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010302",
+                  "title": "广播电视接收设备制造",
+                  "level": 4,
+                  "score": 60,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010303",
+                  "title": "广播电视专用配件制造",
+                  "level": 4,
+                  "score": 61.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010304",
+                  "title": "专业音响设备制造",
+                  "level": 4,
+                  "score": 63.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010305",
+                  "title": "应用电视设备及其他广播电视设备制造",
+                  "level": 4,
+                  "score": 62.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010306",
+                  "title": "电视机制造",
+                  "level": 4,
+                  "score": 57.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010307",
+                  "title": "音响设备制造",
+                  "level": 4,
+                  "score": 60,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010308",
+                  "title": "影视录放设备制造",
+                  "level": 4,
+                  "score": 62.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010104",
+              "title": "智能设备制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010401",
+                  "title": "工业机器人制造",
+                  "level": 4,
+                  "score": 86.25,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010402",
+                  "title": "特殊作业机器人制造",
+                  "level": 4,
+                  "score": 83.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010403",
+                  "title": "智能照明器具制造",
+                  "level": 4,
+                  "score": 67.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010404",
+                  "title": "可穿戴智能设备制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010405",
+                  "title": "智能车载设备制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010406",
+                  "title": "智能无人飞行器制造",
+                  "level": 4,
+                  "score": 83.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010407",
+                  "title": "服务消费机器人制造",
+                  "level": 4,
+                  "score": 80,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010408",
+                  "title": "其他智能消费设备制造",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010105",
+              "title": "电子元器件及设备制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010501",
+                  "title": "半导体器件专用设备制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010502",
+                  "title": "电子元器件与机电组件设备制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010503",
+                  "title": "电力电子元器件制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010504",
+                  "title": "光伏设备及元器件制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010505",
+                  "title": "电气信号设备装置制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010506",
+                  "title": "电子真空器件制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010507",
+                  "title": "半导体分立器件制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010508",
+                  "title": "集成电路制造",
+                  "level": 4,
+                  "score": 85,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 1
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010509",
+                  "title": "显示器件制造",
+                  "level": 4,
+                  "score": 81.25,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010510",
+                  "title": "半导体照明器件制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010511",
+                  "title": "光电子器件制造",
+                  "level": 4,
+                  "score": 85,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401010512",
+                  "title": "电阻电容电感元件制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010513",
+                  "title": "电子电路制造",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010514",
+                  "title": "敏感元件及传感器制造",
+                  "level": 4,
+                  "score": 75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010515",
+                  "title": "电声器件及零件制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010516",
+                  "title": "电子专用材料制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010517",
+                  "title": "其他元器件及设备制造",
+                  "level": 4,
+                  "score": 63.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 1
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010106",
+              "title": "其他数字产品制造业",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401010601",
+                  "title": "记录媒介复制",
+                  "level": 4,
+                  "score": 57.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010602",
+                  "title": "电子游戏游艺设备制造",
+                  "level": 4,
+                  "score": 55,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010603",
+                  "title": "信息化学品制造",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010604",
+                  "title": "计算器及货币专用设备制造",
+                  "level": 4,
+                  "score": 63.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401010605",
+                  "title": "增材制造装备制造",
+                  "level": 4,
+                  "score": 75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010606",
+                  "title": "电线、电缆制造",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010607",
+                  "title": "光纤制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010608",
+                  "title": "光缆制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401010609",
+                  "title": "工业自动控制系统装置制造",
+                  "level": 4,
+                  "score": 78.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            }
+          ],
+          "isBright": true,
+          "link_data_count": {
+            "count": 1
+          },
+          "advantage_type": "优势环节",
+          "display_type": "low_value"
+        },
+        {
+          "value": "INB00040102",
+          "title": "数字产品服务业",
+          "level": 2,
+          "score": 0,
+          "link_cost": "低价值环节",
+          "children": [
+            {
+              "value": "INB0004010201",
+              "title": "数字产品批发",
+              "level": 3,
+              "score": 55,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010202",
+              "title": "数字产品零售",
+              "level": 3,
+              "score": 43.75,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010203",
+              "title": "数字产品租赁",
+              "level": 3,
+              "score": 41.25,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010204",
+              "title": "数字产品维修",
+              "level": 3,
+              "score": 46.25,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010205",
+              "title": "其他数字产品服务业",
+              "level": 3,
+              "score": 53.75,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            }
+          ],
+          "isBright": false,
+          "link_data_count": {},
+          "advantage_type": "无企业布局",
+          "display_type": "low_value"
+        },
+        {
+          "value": "INB00040103",
+          "title": "数字技术应用业",
+          "level": 2,
+          "score": 0,
+          "link_cost": "低价值环节",
+          "children": [
+            {
+              "value": "INB0004010301",
+              "title": "软件开发",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401030101",
+                  "title": "基础软件开发",
+                  "level": 4,
+                  "score": 87.5,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030102",
+                  "title": "支撑软件开发",
+                  "level": 4,
+                  "score": 83.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030103",
+                  "title": "应用软件开发",
+                  "level": 4,
+                  "score": 85,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030104",
+                  "title": "其他软件开发",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010302",
+              "title": "电信、广播电视和卫星传输服务",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401030201",
+                  "title": "电信",
+                  "level": 4,
+                  "score": 52.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030202",
+                  "title": "广播电视传输服务",
+                  "level": 4,
+                  "score": 47.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030203",
+                  "title": "卫星传输服务",
+                  "level": 4,
+                  "score": 76.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 122
+              },
+              "advantage_type": "普通环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010303",
+              "title": "互联网相关服务",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401030301",
+                  "title": "互联网接入及相关服务",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030302",
+                  "title": "互联网搜索服务",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030303",
+                  "title": "互联网游戏服务",
+                  "level": 4,
+                  "score": 76.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030304",
+                  "title": "互联网资讯服务",
+                  "level": 4,
+                  "score": 53.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030305",
+                  "title": "互联网安全服务",
+                  "level": 4,
+                  "score": 81.25,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030306",
+                  "title": "互联网数据服务",
+                  "level": 4,
+                  "score": 88.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030307",
+                  "title": "其他互联网相关服务",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010304",
+              "title": "信息技术服务",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401030401",
+                  "title": "集成电路设计",
+                  "level": 4,
+                  "score": 86.25,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030402",
+                  "title": "信息系统集成服务",
+                  "level": 4,
+                  "score": 83.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030403",
+                  "title": "物联网技术服务",
+                  "level": 4,
+                  "score": 83.75,
+                  "link_cost": "高价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "high_value"
+                },
+                {
+                  "value": "INB000401030404",
+                  "title": "运行维护服务",
+                  "level": 4,
+                  "score": 45,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030405",
+                  "title": "信息处理和存储支持服务",
+                  "level": 4,
+                  "score": 75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030406",
+                  "title": "信息技术咨询服务",
+                  "level": 4,
+                  "score": 61.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030407",
+                  "title": "地理遥感信息及测绘地理信息服务",
+                  "level": 4,
+                  "score": 75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030408",
+                  "title": "动漫、游戏及其他数字内容服务",
+                  "level": 4,
+                  "score": 73.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000401030409",
+                  "title": "其他信息技术服务业",
+                  "level": 4,
+                  "score": 55,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010305",
+              "title": "其他数字技术应用业",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401030501",
+                  "title": "三维（3D）打印技术推广服务",
+                  "level": 4,
+                  "score": 65,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401030502",
+                  "title": "其他未列明数字技术应用业",
+                  "level": 4,
+                  "score": 53.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            }
+          ],
+          "isBright": true,
+          "link_data_count": {
+            "count": 122
+          },
+          "advantage_type": "优势环节",
+          "display_type": "low_value"
+        },
+        {
+          "value": "INB00040104",
+          "title": "数字要素驱动业",
+          "level": 2,
+          "score": 0,
+          "link_cost": "低价值环节",
+          "children": [
+            {
+              "value": "INB0004010401",
+              "title": "互联网平台",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040101",
+                  "title": "互联网生产服务平台",
+                  "level": 4,
+                  "score": 52.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040102",
+                  "title": "互联网生活服务平台",
+                  "level": 4,
+                  "score": 62.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040103",
+                  "title": "互联网科技创新平台",
+                  "level": 4,
+                  "score": 56.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040104",
+                  "title": "互联网公共服务平台",
+                  "level": 4,
+                  "score": 52.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040105",
+                  "title": "其他互联网平台",
+                  "level": 4,
+                  "score": 55,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010402",
+              "title": "互联网批发零售",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040201",
+                  "title": "互联网批发",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040202",
+                  "title": "互联网零售",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010403",
+              "title": "互联网金融",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040301",
+                  "title": "网络借贷服务",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040302",
+                  "title": "非金融机构支付服务",
+                  "level": 4,
+                  "score": 46.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040303",
+                  "title": "金融信息服务",
+                  "level": 4,
+                  "score": 43.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010404",
+              "title": "数字内容与媒体",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040401",
+                  "title": "广播",
+                  "level": 4,
+                  "score": 38.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040402",
+                  "title": "电视",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040403",
+                  "title": "影视节目制作",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040404",
+                  "title": "广播电视集成播控",
+                  "level": 4,
+                  "score": 38.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040405",
+                  "title": "电影和广播电视节目发行",
+                  "level": 4,
+                  "score": 38.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040406",
+                  "title": "电影放映",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040407",
+                  "title": "录音制作",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040408",
+                  "title": "数字内容出版",
+                  "level": 4,
+                  "score": 43.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040409",
+                  "title": "数字广告",
+                  "level": 4,
+                  "score": 42.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010405",
+              "title": "信息基础设施建设",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040501",
+                  "title": "网络基础设施建设",
+                  "level": 4,
+                  "score": 42.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040502",
+                  "title": "新技术基础设施建设",
+                  "level": 4,
+                  "score": 66.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040503",
+                  "title": "算力基础设施建设",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040504",
+                  "title": "其他信息基础设施建设",
+                  "level": 4,
+                  "score": 55,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010406",
+              "title": "数据资源与产权交易",
+              "level": 3,
+              "score": 68.75,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004010407",
+              "title": "其他数字要素驱动业",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000401040701",
+                  "title": "供应链管理服务",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040702",
+                  "title": "安全系统监控服务",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000401040703",
+                  "title": "数字技术研究和试验发展",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            }
+          ],
+          "isBright": false,
+          "link_data_count": {},
+          "advantage_type": "无企业布局",
+          "display_type": "low_value"
+        }
+      ],
+      "isBright": true,
+      "link_data_count": {
+        "count": 123
+      },
+      "new_title": "数字经济核心产业",
+      "advantage_type": "优势环节",
+      "display_type": "low_value"
+    },
+    {
+      "value": "INB000402",
+      "title": "产业数字化",
+      "level": 1,
+      "score": 0,
+      "link_cost": "低价值环节",
+      "children": [
+        {
+          "value": "INB00040201",
+          "title": "数字化效率提升业",
+          "level": 2,
+          "score": 0,
+          "link_cost": "低价值环节",
+          "children": [
+            {
+              "value": "INB0004020101",
+              "title": "智慧农业",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010101",
+                  "title": "数字化设施种植",
+                  "level": 4,
+                  "score": 43.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010102",
+                  "title": "数字林业",
+                  "level": 4,
+                  "score": 42.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010103",
+                  "title": "自动化养殖",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010104",
+                  "title": "新技术育种",
+                  "level": 4,
+                  "score": 50,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010105",
+                  "title": "其他智慧农业",
+                  "level": 4,
+                  "score": 67.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 336
+                  },
+                  "advantage_type": "优势环节",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 384
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020102",
+              "title": "智能制造",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010201",
+                  "title": "数字化通用、专用设备制造",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 235
+                  },
+                  "advantage_type": "普通环节",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010202",
+                  "title": "数字化运输设备制造",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010203",
+                  "title": "数字化电气机械、器材和仪器仪表制造",
+                  "level": 4,
+                  "score": 78.75,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 816
+                  },
+                  "advantage_type": "优势环节",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010204",
+                  "title": "其他智能制造",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 3
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 993
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020103",
+              "title": "智能交通",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010301",
+                  "title": "智能铁路运输",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 3
+                  },
+                  "advantage_type": "优势环节",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010302",
+                  "title": "智能道路运输",
+                  "level": 4,
+                  "score": 46.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010303",
+                  "title": "智能水上运输",
+                  "level": 4,
+                  "score": 46.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010304",
+                  "title": "智能航空运输",
+                  "level": 4,
+                  "score": 51.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010305",
+                  "title": "其他智能交通",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 3
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020104",
+              "title": "智慧物流",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010401",
+                  "title": "智慧仓储",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010402",
+                  "title": "智慧配送",
+                  "level": 4,
+                  "score": 58.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 7
+              },
+              "advantage_type": "劣势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020105",
+              "title": "数字金融",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010501",
+                  "title": "银行金融服务",
+                  "level": 4,
+                  "score": 50,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010502",
+                  "title": "数字资本市场服务",
+                  "level": 4,
+                  "score": 51.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010503",
+                  "title": "互联网保险",
+                  "level": 4,
+                  "score": 51.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020106",
+              "title": "其他数字金融",
+              "level": 3,
+              "score": 50,
+              "link_cost": "低价值环节",
+              "children": [],
+              "isBright": false,
+              "link_data_count": {},
+              "advantage_type": "无企业布局",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020107",
+              "title": "数字商贸",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010701",
+                  "title": "数字化批发",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010702",
+                  "title": "数字化零售",
+                  "level": 4,
+                  "score": 71.25,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010703",
+                  "title": "数字化住宿",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010704",
+                  "title": "数字化餐饮",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010705",
+                  "title": "数字化租赁",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010706",
+                  "title": "数字化商务服务",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 1
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 1
+              },
+              "advantage_type": "劣势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020108",
+              "title": "数字社会",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010801",
+                  "title": "智慧教育",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 1
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010802",
+                  "title": "智慧医疗",
+                  "level": 4,
+                  "score": 72.5,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 11
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "middle_value"
+                },
+                {
+                  "value": "INB000402010803",
+                  "title": "数字化社会工作",
+                  "level": 4,
+                  "score": 70,
+                  "link_cost": "中价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 306
+                  },
+                  "advantage_type": "优势环节",
+                  "display_type": "middle_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 318
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020109",
+              "title": "数字政府",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402010901",
+                  "title": "行政办公自动化",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 1
+                  },
+                  "advantage_type": "劣势环节",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010902",
+                  "title": "网上税务办理",
+                  "level": 4,
+                  "score": 45,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010903",
+                  "title": "互联网海关服务",
+                  "level": 4,
+                  "score": 43.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010904",
+                  "title": "网上社会保障服务",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402010905",
+                  "title": "其他数字政府",
+                  "level": 4,
+                  "score": 56.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 1
+              },
+              "advantage_type": "劣势环节",
+              "display_type": "low_value"
+            },
+            {
+              "value": "INB0004020110",
+              "title": "其他数字化效率提升业",
+              "level": 3,
+              "score": 0,
+              "link_cost": "低价值环节",
+              "children": [
+                {
+                  "value": "INB000402011001",
+                  "title": "数字采矿",
+                  "level": 4,
+                  "score": 68.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": true,
+                  "link_data_count": {
+                    "count": 187
+                  },
+                  "advantage_type": "普通环节",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011002",
+                  "title": "智能化电力、热力、燃气及水生产和供应",
+                  "level": 4,
+                  "score": 66.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011003",
+                  "title": "数字化建筑业",
+                  "level": 4,
+                  "score": 41.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011004",
+                  "title": "互联网房地产业",
+                  "level": 4,
+                  "score": 38.75,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011005",
+                  "title": "专业技术服务业数字化",
+                  "level": 4,
+                  "score": 57.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011006",
+                  "title": "数字化水利、环境和市政设施管理",
+                  "level": 4,
+                  "score": 42.5,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011007",
+                  "title": "互联网居民生活服务",
+                  "level": 4,
+                  "score": 60,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                },
+                {
+                  "value": "INB000402011008",
+                  "title": "互联网文体娱乐业",
+                  "level": 4,
+                  "score": 66.25,
+                  "link_cost": "低价值环节",
+                  "children": [],
+                  "isBright": false,
+                  "link_data_count": {},
+                  "advantage_type": "无企业布局",
+                  "display_type": "low_value"
+                }
+              ],
+              "isBright": true,
+              "link_data_count": {
+                "count": 187
+              },
+              "advantage_type": "优势环节",
+              "display_type": "low_value"
+            }
+          ],
+          "isBright": true,
+          "link_data_count": {
+            "count": 1617
+          },
+          "advantage_type": "优势环节",
+          "display_type": "low_value"
+        }
+      ],
+      "isBright": true,
+      "link_data_count": {
+        "count": 1617
+      },
+      "new_title": "产业数字化",
+      "advantage_type": "优势环节",
+      "display_type": "low_value"
+    }
+  ],
+  "isBright": true,
+  "isBright_count": 27,
+  "fir_link_count": 2,
+  "sec_link_count": 5,
+  "three_link_count": 33,
+  "four_link_count": 143,
+  "fif_link_count": 0,
+  "link_count": 183,
+  "max_level_count": 143,
+  "high_value_link_count": 17,
+  "middle_value_link_count": 47,
+  "low_value_link_count": 119,
+  "value": "INB0004",
+  "isBright_radio": 0.15,
+  "advantage_link_count": 15,
+  "common_link_count": 3,
+  "disadvantage_link_count": 9,
+  "display_type": "industry",
+  "industryLink": {
+    "curNum": 27,
+    "total": 183
+  },
+  "companyNum": {
+    "curNum": 4268,
+    "total": 5645801
+  },
+  "isNotBright_count": 156
+}

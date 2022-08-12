@@ -1,0 +1,30 @@
+/*html,*/
+/*body {*/
+/*  padding: 0;*/
+/*  margin: 0;*/
+/*  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,*/
+/*    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;*/
+/*}*/
+
+/*a {*/
+/*  color: inherit;*/
+/*  text-decoration: none;*/
+/*}*/
+
+/** {*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+/* ./styles/globals.css */
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+.customClassMain {
+  width: 100%;
+  min-height: calc(100vh - 175px);
+  background-color: rgba(0, 112, 243, 0.5);
+  background-color: #F6F8FA;
+  overflow-y: auto;
+  padding: 0px 0px 20px 0;
+  box-sizing: border-box;
+}

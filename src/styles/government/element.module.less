@@ -1,0 +1,228 @@
+.areaBox{
+  width: 100%;
+  height: 72px;
+  background-color: #fff;
+  padding:21px 31px;
+  box-sizing: border-box;
+  :global(.ant-select){
+    width: 352px !important;
+  }
+}
+.areaLabel{
+  font-size: 14px;
+  font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+  font-weight: 400;
+  color: #5C5F66;
+  line-height: 21px;
+  margin-right:10px;
+}
+.elementContent{
+  width: 100%;
+  height: 910px;
+  overflow: hidden;
+  margin-top:12px;
+  .contentLeft{
+    width: 954px;
+    height: 100%;
+    float: left;
+    background-color: #fff;
+    padding:6px 18px 18px 18px;
+    box-sizing: border-box;
+    .areaTitle{
+      font-size: 16px;
+      font-family: SourceHanSansCN-Bold, SourceHanSansCN;
+      font-weight: bold;
+      color: #333333;
+      line-height: 21px;
+      span{
+        font-size: 16px;
+        font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+        font-weight: 400;
+        color: #5C5F66;
+        line-height: 21px;
+        margin-left: 12px;
+      }
+    }
+    .elementSwitchBox{
+      width: 100%;
+      height: 72px;
+      margin:29px 0 26px 0;
+      display: flex;
+      justify-content: center;
+      .switchItem,.switchItem1{
+        width: 235px;
+        height: 100%;
+        padding-left:90px;
+        box-sizing: border-box;
+        cursor: pointer;
+        background-size: cover;
+        font-size: 14px;
+        font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+        font-weight: 400;
+        color: #5C5F66;
+        line-height: 21px;
+        padding-top:12px;
+        .countNum{
+          font-size: 16px;
+          font-family: SourceHanSansCN-Bold, SourceHanSansCN;
+          font-weight: bold;
+          color: #020C2D;
+          line-height: 24px;
+          span{
+            font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+            font-weight: 400;
+            color: #5C5F66;
+            margin-left: 5px;
+          }
+        }
+      }
+      .switchItem:nth-child(1){
+        background: url('../../assets/images/com-none.png');
+        &:hover{
+          background: url('../../assets/images/com-hover.png');
+        }
+      }
+      .switchItem:nth-child(2){
+        margin:0 64px;
+        background: url('../../assets/images/organ-none.png');
+        &:hover{
+          background: url('../../assets/images/organ-hover.png');
+        }
+      }
+      .switchItem:nth-child(3){
+        background: url('../../assets/images/carrier-none.png');
+        &:hover{
+          background: url('../../assets/images/carrier-hover.png');
+        }
+      }
+      .switchItem1:nth-child(1){
+        color: #fff;
+        background:url('../../assets/images/com-active.png');
+        .countNum{
+          color: #fff;
+          span{
+            color: #fff;
+          }
+        }
+      }
+      .switchItem1:nth-child(2){
+        margin:0 64px;
+        color: #fff;
+        background:url('../../assets/images/organ-active.png');
+        .countNum{
+          color: #fff;
+          span{
+            color: #fff;
+          }
+        }
+      }
+      .switchItem1:nth-child(3){
+        color: #fff;
+        background:url('../../assets/images/carrier-active.png');
+        .countNum{
+          color: #fff;
+          span{
+            color: #fff;
+          }
+        }
+      }
+    }
+    .mapbox{
+      width: 100%;
+      height: 732px;
+    }
+  }
+  .contentRight{
+    width: 400px;
+    height: 100%;
+    float: right;
+    padding:13px 0;
+    background-color: #fff;
+    box-sizing: border-box;
+    .areaTitle{
+      display: flex;
+      align-items: center;
+      line-height: 21px;
+      justify-content: space-between;
+      padding: 0 13px 15px 13px;
+      box-sizing: border-box;
+      border-bottom: 1px solid #EFEFEF;
+      .rightTitle{
+        font-size: 14px;
+        font-family: SourceHanSansCN-Bold, SourceHanSansCN;
+        font-weight: bold;
+        color: #020C2D;
+        span{
+          font-size: 14px;
+          font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+          font-weight: 400;
+          color: #5C5F66;
+          margin-left:7px;
+        }
+      }
+      .more{
+        font-size: 12px;
+        font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+        font-weight: 400;
+        color: #1192FF;
+        cursor: pointer;
+      }
+    }
+    .chartBox{
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+      padding: 13px;
+      box-sizing: border-box;
+    }
+  }
+}
+.chartTitle{
+  font-size: 14px;
+  font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+  font-weight: 400;
+  color: #333333;
+  line-height: 21px;
+}
+.tableBox{
+  width:100%;
+  height:auto;
+  overflow: hidden;
+  margin-top: 12px;
+  background-color: #fff;
+  padding:10px 24px;
+  box-sizing: border-box;
+  .tabSwitchBox{
+    width: 100%;
+    height:auto;
+    overflow: hidden;
+    margin-bottom: 16px;
+    span{
+      width: 84px;
+      height: 40px;
+      display: inline-block;
+      float: left;
+      margin-right:10px;
+      cursor: pointer;
+      font-size: 14px;
+      font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+      font-weight: 400;
+      color: #333333;
+      line-height: 40px;
+      text-align: center;
+      &:hover{
+        background-color: #E0F0FF;
+      }
+    }
+    span:nth-child(1){
+      letter-spacing: 4px;
+    }
+  }
+}
+.tableSpanActive{
+  background-color: #E0F0FF;
+  color: #1192FF;
+}
+.pageFullBox{
+  margin-top: 40px;
+}

@@ -1,0 +1,81 @@
+.listBox {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding-top: 7px;
+  box-sizing: border-box;
+  font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+}
+
+.listItem {
+  width: 100%;
+  border-bottom: 1px solid #EFEFEF;
+  padding: 20px 0px;
+  box-sizing: border-box;
+}
+
+.topInfo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+
+  .leftInfo {
+    span {
+      font-size: 16px;
+      font-weight: 500;
+      color: #333333;
+    }
+
+    .scoreBox {
+      margin-left: 16px;
+
+      span:nth-child(1) {
+        padding: 2px 9px;
+        background: #1192FF;
+        border-radius: 2px 0px 0px 2px;
+        font-size: 12px;
+        color: #FFF;
+      }
+
+      span:nth-child(2) {
+        padding: 1px 9px;
+        border: 1px solid #0A7AD9;
+        border-radius: 0px 2px 2px 0px;
+        font-size: 12px;
+        font-weight: bold;
+        color: #0A7AD9;
+      }
+    }
+  }
+
+  .rightInfo {
+    div:nth-child(1) {
+      margin-right: 24px;
+      font-size: 14px;
+      font-weight: 400;
+      color: #333333;
+    }
+
+    div:nth-child(2) {
+      font-size: 14px;
+      font-weight: 400;
+      color: #333333;
+
+      span {
+        font-size: 14px;
+        color: #848484;
+        padding-right: 8px;
+      }
+    }
+  }
+}
+
+.labelBox {
+  margin-top: 20px;
+}
